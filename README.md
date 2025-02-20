@@ -1,9 +1,7 @@
-# AVL Tree Stock Database
+# AVL Tree For CSV Database
 
-## Overview
-
-This project is a C++ implementation of an AVL tree for managing stock data. The program reads stock information from a CSV file and stores it in a self-balancing AVL tree. Users interact with the stock database via a command-line menu that allows them to:
-- Display a stock's name or price by its symbol.
+This is a C++ project of an AVL tree for managing CSV files. It reads information from a CSV file and stores it in a self-balancing AVL tree. For the example database, it uses stocks. You can interact with the stock database via a command-line menu that allows you to:
+- View a stock's name or price by its symbol.
 - Insert new stock entries.
 - Display all stock data.
 
